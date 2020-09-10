@@ -26,7 +26,7 @@ Content-Type: application/json
 ```
   
 Result EndPoint - provide the following info in JSON format
-GET <host>/v1/diff/{id}:
+- GET <host>/v1/diff/{id}:
  
 ```sh
 Accept: application/json
